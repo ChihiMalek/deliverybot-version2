@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.nicegui/
+
+# Arduino / IDE
+build/
+*.bin
+*.elf
+.vscode/
+.idea/
+
+# Systeme
+.DS_Store
+Thumbs.db
+
+# Fichiers locaux de configuration (identifiants WiFi, etc.)
+secrets.h
