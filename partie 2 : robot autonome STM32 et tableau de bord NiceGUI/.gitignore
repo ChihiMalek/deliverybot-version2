@@ -1,0 +1,5 @@
+# Donnees enregistrees par la supervision (generees a chaque essai)
+supervision/deliverybot_donnees.csv
+__pycache__/
+*.pyc
+.vscode/
